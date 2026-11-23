@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3.0",
+  "versionCode": 4,
+  "versionName": "0.4.0",
   "apkUrl": "https://github.com/mhadhbimedwork-crypto/meccanic-garage-releases/raw/main/MeccanicGarage.apk",
-  "note": "Smontaggio pezzo per pezzo, banco prova con acceleratore e cambio, Dremel realistico sul cilindro, joystick, menu garage scorrevole"
+  "note": "Elenco pezzi smontati (dal menu o da terra), negozio Vespa Smallframe con catalogo reale"
 }
