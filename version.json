@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.6.0",
+  "versionCode": 7,
+  "versionName": "0.6.1",
   "apkUrl": "https://github.com/mhadhbimedwork-crypto/meccanic-garage-releases/raw/main/MeccanicGarage.apk",
-  "note": "Database marmitte (38 schede, curve simulate dichiarate), cilindri e accensioni, alesaggio/corsa documentati per 15 cilindri"
+  "note": "Forcella dritta e rinforzata, tubo sterzo rinforzato, metalli e ruote non piu neri, guida a colori corretta"
 }
