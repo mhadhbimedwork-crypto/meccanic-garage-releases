@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.5.0",
+  "versionCode": 6,
+  "versionName": "0.6.0",
   "apkUrl": "https://github.com/mhadhbimedwork-crypto/meccanic-garage-releases/raw/main/MeccanicGarage.apk",
-  "note": "Guida a colori 360 in officina, Dremel con joystick e fresa reale, garage piu' luminoso senza riflessi, 219 pezzi con prezzo"
+  "note": "Database marmitte (38 schede, curve simulate dichiarate), cilindri e accensioni, alesaggio/corsa documentati per 15 cilindri"
 }
